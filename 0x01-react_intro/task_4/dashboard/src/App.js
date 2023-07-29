@@ -6,7 +6,7 @@ import { getFullYear, getFooterCopy } from "./utils";
 function App() {
   return (
       <div className="App-header">
-        <img src={holberton_logo} />
+        <img src={holberton-logo} />
         <h1>School dashboard</h1>
       </div>
       <div className="App-body">
