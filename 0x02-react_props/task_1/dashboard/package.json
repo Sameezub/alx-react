@@ -1,7 +1,6 @@
 {
   "name": "dashboard",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
@@ -43,6 +42,7 @@
     "moduleNameMapper": {
       "\\.(css|sass)$": "<rootDir>/__mocks__/styleMock.js",
       "\\.(jpg|jpeg|png|gif|ttf|eot|svg)$": "<rootDir>/__mocks__/fileMock.js"
-    } 
-  }
+    }
+  },
+  "description": ""
 }
